@@ -21,6 +21,7 @@ If you’re curious about how frameworks like Express or Hono work under the hoo
 
 ## 📂 Structure
 
+```bash
 src/
 ├── breeze/ # framework experiment
 │ ├── context.ts
@@ -30,13 +31,13 @@ src/
 ├── tasks-app/ # CRUD API example
 ├── main.ts # entry point
 
-````
+```
 
 ## 🔧 Usage
 
 ```bash
 deno task run
-````
+```
 
 Then open:
 
